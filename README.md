@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **anything,I would try my best to help you**
+- 💬 Ask me about anything **,I would try my best to help you**
 
 - 📫 How to reach me **waghmodepratiksha48@gmail.com**
 
