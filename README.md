@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pratiksha waghmode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratiksha waghmode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratiksha-waghmode-931b27256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratiksha waghmode" height="30" width="40" /></a>
 <a href="https://medium.com/@waghmodepratiksha48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@waghmodepratiksha48" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/pratiksha_btech](https://www.youtube.com/@Pratiksha1811)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pratiksha_btech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Pratiksha1811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pratiksha_btech" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pratiksha waghmode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratiksha waghmode" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratiksha_1661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratiksha_1661" height="30" width="40" /></a>
 </p>
